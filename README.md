@@ -7,3 +7,6 @@ Path to extended CSPARQL implementation class
 /csparql-core/src/main/java/eu/larkc/csparql/core/engine
 Path to out excelsheet can be changed at 
 /csparql-sparql-jena/src/main/java/eu/larkc/csparql/sparql/jena/JenaEngine.java
+
+CustomizedCSPARQL-engine-OnDFS is an extended version of CSPARQL-engine.
+CSPARQL-engine is available on Web site: https://github.com/streamreasoning/CSPARQL-engine
