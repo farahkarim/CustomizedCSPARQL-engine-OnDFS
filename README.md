@@ -13,7 +13,7 @@ Run following command to build jar files
 
 $mvn install
 
-Path to out excelsheet can be changed at 
+Call to output an excelsheet is commented out. However, in order to use it, path to output excelsheet can be changed at 
 
 /csparql-sparql-jena/src/main/java/eu/larkc/csparql/sparql/jena/JenaEngine.java
 
