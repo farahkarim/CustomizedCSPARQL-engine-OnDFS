@@ -384,7 +384,7 @@ private Datasource jds = new JenaDatasource();
 		logger.debug("Information about execution of query {} \n Execution Time : {} \n Results Number : {} \n Total Memory : {} mb \n " +
 				"Free Memory : {} mb \n Memory Usage : {} mb \n #KGTriples : {} \n KG mb Size : {} mb", object);
 
-		updateExcelJena(object,query.getId().toString());
+		//updateExcelJena(object,query.getId().toString());
 		
 		return table;
 	}
