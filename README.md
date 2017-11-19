@@ -9,6 +9,10 @@ Path to extended CSPARQL implementation class
 
 /csparql-core/src/main/java/eu/larkc/csparql/core/engine
 
+Run following command to build jar files
+
+$mvn install
+
 Path to out excelsheet can be changed at 
 
 /csparql-sparql-jena/src/main/java/eu/larkc/csparql/sparql/jena/JenaEngine.java
